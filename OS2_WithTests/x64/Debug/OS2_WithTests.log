@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  tests.cpp
+  Создание кода...
+tests.obj : error LNK2005: main уже определен в Main.obj
+C:\Users\Антон\source\repos\OS2_WithTests\x64\Debug\OS2_WithTests.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
